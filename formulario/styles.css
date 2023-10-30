@@ -1,0 +1,40 @@
+*{
+    border: none;
+    margin: 0%;
+    padding: 0%;
+}
+.text{
+    height: 11rem;
+    border-radius: 5rem;
+    background-color: rgba(5, 5, 5, 0.568);
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  .container img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .container .text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+  }
+  
+  button{
+    font-size:20px ;
+    border-radius: 5px;
+    background-color: aqua;
+    margin-top: 1rem;
+  }
+
+  input{
+    font-size: 20px;
+    margin-top: 2rem;
+  }

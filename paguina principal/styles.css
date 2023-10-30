@@ -1,0 +1,98 @@
+*{
+  border:none;
+  margin:0;
+  padding: 0;
+}
+
+.contenido{
+  display: flex;
+  margin-top: 2rem;
+  height: 30rem;
+}
+
+.content{
+ margin-left: 2rem;
+}
+ 
+#comments{
+  margin-top: 1rem;
+}
+
+img{
+  width: auto;
+  height: 30rem;
+}
+
+#sudtitulo{
+color: black;
+}
+
+.Que{
+  margin-top: 1rem;
+}
+
+li{
+    text-decoration: none;
+}
+
+a{
+ color: white;
+
+}
+
+ul{
+    display:flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.encabezado{
+  margin-top: 1%;
+}
+
+
+  button {
+    background-color: #f30909;
+    color:white;
+    border-radius: 4rem;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer; 
+  }
+
+  iframe{
+    width: 1350px;
+    height: 350px;
+    margin-top: 1%;
+}
+
+  .contenido{
+    justify-content: flex-end;
+  }
+
+  p {
+    font-size: 20px; 
+    margin-right: auto;
+  }
+  img{
+   margin-left: auto;
+    width: 40%;
+  }
+  
+  .Contactos {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    
+  }
+  .pie{
+    position: relative;
+    background-color: rgb(0, 0, 0);
+  }
+
+  h2{
+    color:white;
+  }
+
+  
